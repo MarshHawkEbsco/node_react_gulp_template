@@ -15,7 +15,7 @@ this.emit('end');
 gulp.task('js', function () {
 return browserify(src + '/js/app.js', {debug:true})
     .on('error', handleError)
-    .transform(babelify, {presets: ["es2015", "react", "stage-0"]})
+    .transform(babelify, {presets: ["env", "react", "stage-0"]})
     .on('error', handleError)
     .bundle()
     .on('error', handleError)

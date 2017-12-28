@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom'
 import { createStore } from 'redux'
 import { Provider } from 'react-redux'
 
-import { addIds } from './actions/index.js'
+//import { } from './actions/index.js'
 import combinedReducer from './reducers/combinedReducer'
 
 let initialState = {}
