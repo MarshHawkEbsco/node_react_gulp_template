@@ -62,3 +62,13 @@ typings/
 # dotenv environment variables file
 .env
 
+# nodejs tools for visual studio
+*.njsproj
+.vs
+
+# nodejs tools for visual studiogit
+template/
+
+# package json locks
+package-lock.json
+
