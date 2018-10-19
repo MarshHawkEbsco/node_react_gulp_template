@@ -19,6 +19,7 @@
     "babelify": "^8.0.0",
     "browserify": "^14.5.0",
     "chai": "^4.1.2",
+    "envify": "^4.1.0",
     "enzyme": "^3.2.0",
     "enzyme-adapter-react-16": "^1.1.1",
     "gulp": "^3.9.1",

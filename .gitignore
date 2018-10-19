@@ -65,6 +65,7 @@ typings/
 # nodejs tools for visual studio
 *.njsproj
 .vs
+*.sln
 
 # nodejs tools for visual studiogit
 template/
