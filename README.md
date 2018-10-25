@@ -14,3 +14,4 @@ Template for react component development with gulp
 - Copy create-react-app for any missing features (add attribution)
 - Add some good middleware
 - Clean-up Babel processes
+- Migrate repo name
